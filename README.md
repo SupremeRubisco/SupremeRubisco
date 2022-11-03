@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupremeRubisco
 - 👀 I’m interested in making proxyies to bypass webfilters
-- 🌱 I’m currently learning how to code Javascript and HTML
+- 🌱 I’m currently learning how to code Javascript and CSS
 - 💞️ I’m looking to collaborate on a proxy website
 - 📫 How to reach me eythanlawless@gmail.com
 
