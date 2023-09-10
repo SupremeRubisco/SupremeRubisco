@@ -13,6 +13,21 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SupremeRubisco&show_icons=true&theme=transparent"/>
 </p>
+
+<h2 align="center">Languages:</h2>
+<p align="center">
+<img width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>
+<img width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E"/>
+<img width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/>
+</p>
+
+<h2 align="center">Learning:</h2>
+<p align="center">
+<img width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>
+<img width="32" src="https://cdn.simpleicons.org/markdown/white"/>
+<img width="32" src="https://cdn.simpleicons.org/python/#3776AB"/>
+</p>
+
 <!---
 SupremeRubisco/SupremeRubisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
