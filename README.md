@@ -5,27 +5,27 @@
 <p align="center">Hi, I'm a Frontend Web Developer</p>
 
 <p align="center">
-<a href="mailto:supremerubisco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://discord.gg/UhvkBDfpXz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://replit.com/@SupremeRubisco"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></a>
+<a target="_blank" href="mailto:supremerubisco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://discord.gg/UhvkBDfpXz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://replit.com/@SupremeRubisco"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></a>
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SupremeRubisco&show_icons=true&theme=transparent"/>
 </p>
 
-<h2 align="center">Languages:</h2>
+<p align="center">Languages:</p>
 <p align="center">
-<img width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/>
-<img width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E"/>
-<img width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/>
+<a target="_blank"><img width="32" src="https://cdn.simpleicons.org/html5/#E34F26"/></a>
+<a target="_blank"><img width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E"/></a>
+<a target="_blank"><img width="32" src="https://cdn.simpleicons.org/css3/#1572B6"/></a>
 </p>
 
-<h2 align="center">Learning:</h2>
+<p align="center">Learning:</p>
 <p align="center">
-<img width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>
-<img width="32" src="https://cdn.simpleicons.org/markdown/white"/>
-<img width="32" src="https://cdn.simpleicons.org/python/#3776AB"/>
+<a target="_blank"><img width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933"/></a>
+<a target="_blank"><img width="32" src="https://cdn.simpleicons.org/markdown/white"/></a>
+<a target="_blank"><img width="32" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/></a>
 </p>
 
 <!---
