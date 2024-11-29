@@ -32,7 +32,7 @@
 
 <p align="center">Will Learn:</p>
 <p align="center">
-<a target="_blank" href="https://tailwindcss.com"><img width="32" src="https://cdn.simpleicons.org/tailwindcss/"/></a>&nbsp;
+<a target="_blank" href="https://tailwindcss.com"><img width="32" src="https://cdn.simpleicons.org/tailwindcss"/></a>&nbsp;
 <a target="_blank" href="https://biomejs.dev"><img width="32" src="https://cdn.simpleicons.org/biome"/></a>&nbsp;
 <a target="_blank" href="https://nginx.org"><img width="32" src="https://cdn.simpleicons.org/nginx"/></a>&nbsp;
 <a target="_blank" href="https://www.python.org/"><img width="32" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/></a>
